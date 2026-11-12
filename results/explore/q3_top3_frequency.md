@@ -1,0 +1,12 @@
+**How often each genre reaches the top 3 (1980-2025)** — 8 rows (showing 8; full table: `results/explore/q3_top3_frequency.csv`)
+
+| genre | years_in_top3 | years_rank1 | first_year | last_year |
+| --- | --- | --- | --- | --- |
+| Drama | 46 | 42 | 1980 | 2025 |
+| Comedy | 34 | 2 | 1985 | 2025 |
+| Action | 29 | 1 | 1982 | 2025 |
+| Adventure | 16 | 1 | 1980 | 2021 |
+| Crime | 9 | 0 | 1990 | 1999 |
+| Horror | 2 | 0 | 1980 | 1981 |
+| Sci-Fi | 1 | 0 | 1982 | 1982 |
+| Thriller | 1 | 0 | 2006 | 2006 |
