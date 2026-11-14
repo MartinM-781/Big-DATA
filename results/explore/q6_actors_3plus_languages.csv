@@ -1,0 +1,325 @@
+nconst,primaryName,n_languages,languages,n_successful_films
+nm0504897,Tony Leung Chiu-wai,7,"['de', 'en', 'es', 'fr', 'ja', 'vi', 'yue']",14
+nm0695177,Prakash Raj,5,"['en', 'hi', 'kn', 'ta', 'te']",41
+nm0482320,Mohanlal,5,"['en', 'hi', 'ml', 'ta', 'te']",24
+nm4921260,Dulquer Salmaan,5,"['en', 'hi', 'ml', 'ta', 'te']",15
+nm1302330,Murli Sharma,5,"['en', 'hi', 'ml', 'ta', 'te']",13
+nm0896573,Ashish Vidyarthi,5,"['en', 'hi', 'ml', 'ta', 'te']",12
+nm0474609,Atul Kulkarni,5,"['en', 'hi', 'kn', 'ta', 'te']",10
+nm1421465,Priyamani,5,"['en', 'hi', 'ml', 'ta', 'te']",7
+nm7367695,Sai Pallavi,5,"['en', 'hi', 'ml', 'ta', 'te']",6
+nm0437580,Takeshi Kaneshiro,5,"['ca', 'de', 'en', 'fr', 'zh']",5
+nm0621937,Nassar,4,"['hi', 'ml', 'ta', 'te']",37
+nm0712546,Paresh Rawal,4,"['de', 'en', 'hi', 'ta']",27
+nm0001884,Max von Sydow,4,"['da', 'en', 'fr', 'sv']",19
+nm1335704,Fahadh Faasil,4,"['en', 'ml', 'ta', 'te']",18
+nm0007102,Tabu,4,"['en', 'hi', 'ml', 'ta']",15
+nm0004486,Bruno Ganz,4,"['de', 'el', 'en', 'it']",13
+nm0700869,Amrish Puri,4,"['en', 'hi', 'ml', 'ta']",12
+nm3559559,Rao Ramesh,4,"['en', 'kn', 'ta', 'te']",12
+nm0430746,Erland Josephson,4,"['bg', 'en', 'it', 'sv']",11
+nm3132784,Kishore Kumar G.,4,"['kn', 'ml', 'ta', 'te']",10
+nm0226699,Bogdan Diklic,4,"['bs', 'en', 'hr', 'sr']",10
+nm2284321,Samuthirakani,4,"['en', 'ml', 'ta', 'te']",10
+nm0007113,Nana Patekar,4,"['de', 'en', 'hi', 'mr']",10
+nm5408984,Bagavathi Perumal,4,"['de', 'en', 'hi', 'ta']",9
+nm1957308,V. Jayaprakash,4,"['en', 'ml', 'ta', 'te']",9
+nm0267042,Golshifteh Farahani,4,"['de', 'en', 'fa', 'fr']",9
+nm0660327,Irene Papas,4,"['el', 'en', 'fr', 'it']",8
+nm0001041,Maggie Cheung,4,"['en', 'es', 'ja', 'yue']",8
+nm0543547,Miki Manojlović,4,"['bg', 'en', 'sh', 'sr']",8
+nm0451561,Sachin Khedekar,4,"['hi', 'ml', 'ta', 'te']",8
+nm5654277,Bobby Simha,4,"['kn', 'ml', 'ta', 'te']",8
+nm0025627,Tinnu Anand,4,"['hi', 'ml', 'ta', 'te']",8
+nm0000899,Monica Bellucci,4,"['en', 'fr', 'he', 'it']",7
+nm0626259,Franco Nero,4,"['de', 'en', 'es', 'it']",7
+nm2281292,Rana Daggubati,4,"['en', 'hi', 'ta', 'te']",7
+nm0159802,Jesper Christensen,4,"['da', 'en', 'no', 'sv']",7
+nm3414188,Adivi Sesh,4,"['en', 'hi', 'ta', 'te']",7
+nm8612305,Rashmika Mandanna,4,"['en', 'hi', 'kn', 'te']",7
+nm0721073,Fernando Rey,4,"['en', 'es', 'fr', 'it']",7
+nm0008713,Abhimanyu Singh,4,"['en', 'hi', 'ta', 'te']",7
+nm0419688,Jayaram,4,"['kn', 'ml', 'ta', 'te']",7
+nm0001472,Jet Li,4,"['en', 'fr', 'ja', 'zh']",6
+nm0865411,Srdjan 'Zika' Todorovic,4,"['bg', 'ro', 'sh', 'sr']",6
+nm8179407,Sobhita Dhulipala,4,"['hi', 'ml', 'ta', 'te']",6
+nm0490489,Andy Lau,4,"['en', 'es', 'yue', 'zh']",6
+nm0095013,Maria Bonnevie,4,"['da', 'en', 'no', 'ru']",6
+nm1914298,Pål Sverre Hagen,4,"['da', 'en', 'no', 'sv']",6
+nm3682633,John Vijay,4,"['hi', 'ml', 'ta', 'te']",6
+nm3591550,Priya Anand,4,"['hi', 'kn', 'ta', 'te']",5
+nm0000591,Roman Polanski,4,"['en', 'fr', 'it', 'pl']",5
+nm0952498,Zbigniew Zamachowski,4,"['de', 'en', 'fr', 'pl']",5
+nm5294556,Regena Cassandrra,4,"['en', 'hi', 'ta', 'te']",5
+nm0000334,Yun-Fat Chow,4,"['en', 'es', 'yue', 'zh']",5
+nm0091074,Sergey Bodrov,4,"['ce', 'en', 'fr', 'ru']",5
+nm0955471,Ziyi Zhang,4,"['en', 'ja', 'ko', 'zh']",5
+nm2178111,Adithya Menon,4,"['en', 'kn', 'ta', 'te']",5
+nm1299510,Genelia Deshmukh,4,"['hi', 'mr', 'ta', 'te']",5
+nm0474871,Sai Kumar,4,"['en', 'kn', 'ta', 'te']",5
+nm0144812,Sergio Castellitto,4,"['de', 'en', 'fr', 'it']",5
+nm0159507,Stephen Chow,4,"['en', 'es', 'fr', 'it']",5
+nm0352967,Emir Hadžihafizbegović,4,"['bs', 'de', 'en', 'hr']",4
+nm0530365,Sergi López,4,"['ar', 'es', 'fr', 'it']",4
+nm0151654,Chang Chen,4,"['de', 'es', 'ja', 'zh']",4
+nm0000821,Amitabh Bachchan,3,"['en', 'hi', 'te']",32
+nm0474774,Akshay Kumar,3,"['de', 'en', 'hi']",25
+nm0000367,Gérard Depardieu,3,"['en', 'fr', 'it']",24
+nm0222426,Ajay Devgn,3,"['en', 'hi', 'te']",21
+nm0352032,Kamal Haasan,3,"['hi', 'ta', 'te']",21
+nm4043111,Vijay Sethupathi,3,"['en', 'ta', 'te']",20
+nm3606487,Samantha Ruth Prabhu,3,"['de', 'ta', 'te']",19
+nm0700875,Om Puri,3,"['en', 'hi', 'pa']",18
+nm0842770,Tilda Swinton,3,"['en', 'hu', 'it']",17
+nm1596350,Nawazuddin Siddiqui,3,"['en', 'hi', 'ta']",17
+nm0080238,Tanikella Bharani,3,"['en', 'ta', 'te']",17
+nm0000063,Anthony Quinn,3,"['el', 'en', 'it']",16
+nm0004469,Kota Srinivasa Rao,3,"['hi', 'ta', 'te']",16
+nm0534856,Madhavan,3,"['en', 'hi', 'ta']",16
+nm0795661,Saurabh Shukla,3,"['en', 'hi', 'ta']",16
+nm1224082,Boman Irani,3,"['en', 'hi', 'te']",16
+nm1198628,Sunil,3,"['en', 'ta', 'te']",15
+nm0000366,Catherine Deneuve,3,"['en', 'es', 'fr']",15
+nm0706787,Aishwarya Rai Bachchan,3,"['en', 'hi', 'ta']",14
+nm0004569,Sanjay Dutt,3,"['hi', 'kn', 'ta']",14
+nm0000052,Marcello Mastroianni,3,"['en', 'fr', 'it']",14
+nm0182839,Marion Cotillard,3,"['de', 'en', 'fr']",14
+nm2570245,Kajal Aggarwal,3,"['hi', 'ta', 'te']",14
+nm2496992,Ajay,3,"['en', 'ta', 'te']",14
+nm0728262,Mukesh Rishi,3,"['hi', 'kn', 'te']",13
+nm0603402,Jeanne Moreau,3,"['en', 'fr', 'it']",13
+nm0000006,Ingrid Bergman,3,"['en', 'it', 'sv']",13
+nm5724719,Achyuth Kumar,3,"['en', 'kn', 'ta']",13
+nm0004851,Penélope Cruz,3,"['en', 'es', 'it']",13
+nm1521381,Nayanthara,3,"['en', 'ta', 'te']",12
+nm1375534,Trisha Krishnan,3,"['en', 'ta', 'te']",12
+nm3966456,Taapsee Pannu,3,"['hi', 'ta', 'te']",12
+nm0788903,Rajesh Sharma,3,"['bn', 'en', 'hi']",12
+nm3761004,Nani,3,"['en', 'ta', 'te']",11
+nm0149441,Sheeba Chaddha,3,"['en', 'hi', 'no']",11
+nm0001321,Richard Harris,3,"['en', 'it', 'ru']",11
+nm0004335,Hrithik Roshan,3,"['en', 'hi', 'ta']",11
+nm0167388,François Cluzet,3,"['en', 'fr', 'it']",10
+nm1208167,Diane Kruger,3,"['de', 'en', 'fr']",10
+nm0000706,Michelle Yeoh,3,"['en', 'yue', 'zh']",10
+nm0801264,Simran,3,"['en', 'hi', 'ta']",10
+nm0001097,Charles Dance,3,"['cs', 'en', 'nl']",9
+nm1226448,Neha Dhupia,3,"['de', 'en', 'hi']",9
+nm0000329,Jackie Chan,3,"['en', 'es', 'yue']",9
+nm3383930,Nithya Menen,3,"['ml', 'ta', 'te']",9
+nm0438465,Annu Kapoor,3,"['en', 'hi', 'ml']",9
+nm0694893,Prabhu,3,"['ml', 'ta', 'te']",9
+nm0000254,Isabelle Adjani,3,"['de', 'en', 'fr']",9
+nm0245988,Trine Dyrholm,3,"['da', 'de', 'no']",9
+nm0876300,Ulrich Tukur,3,"['de', 'en', 'fr']",9
+nm0305558,Gael García Bernal,3,"['en', 'es', 'fr']",9
+nm0634159,Philippe Noiret,3,"['en', 'fr', 'it']",9
+nm1328152,Shriya Saran,3,"['hi', 'ta', 'te']",9
+nm0001588,Jack Palance,3,"['en', 'fr', 'it']",9
+nm0737513,Rohini,3,"['en', 'ta', 'te']",9
+nm0149822,Mithun Chakraborty,3,"['hi', 'ta', 'te']",8
+nm0470981,Thomas Kretschmann,3,"['de', 'en', 'ko']",8
+nm0002769,Romy Schneider,3,"['de', 'fr', 'it']",8
+nm0000365,Julie Delpy,3,"['de', 'en', 'fr']",8
+nm2299825,Ileana D'Cruz,3,"['hi', 'ta', 'te']",8
+nm0712437,Nizhalgal Ravi,3,"['en', 'ml', 'ta']",8
+nm0000420,Valeria Golino,3,"['en', 'fr', 'it']",8
+nm0038355,Tadanobu Asano,3,"['en', 'ja', 'mn']",8
+nm0457410,Ravi Kishan,3,"['en', 'hi', 'te']",8
+nm0000606,Jean Reno,3,"['en', 'fr', 'it']",8
+nm0000905,Roberto Benigni,3,"['de', 'en', 'it']",7
+nm0000047,Sophia Loren,3,"['de', 'en', 'it']",7
+nm0945189,Simon Yam,3,"['en', 'yue', 'zh']",7
+nm1197689,Sandra Hüller,3,"['de', 'en', 'fr']",7
+nm2527173,Parvathy Thiruvothu,3,"['en', 'hi', 'ml']",7
+nm0000442,Rutger Hauer,3,"['de', 'en', 'nl']",7
+nm2011414,Devadarshini Chetan,3,"['en', 'ta', 'te']",7
+nm1659141,Prabhas,3,"['hi', 'ta', 'te']",7
+nm1942975,Andrea Jeremiah,3,"['en', 'hi', 'ta']",7
+nm0322977,Nebojša Glogovac,3,"['bg', 'de', 'sr']",7
+nm0525518,Florian Lukas,3,"['de', 'en', 'hi']",7
+nm0800302,Michel Simon,3,"['de', 'en', 'fr']",7
+nm0720763,Revathi,3,"['hi', 'ml', 'ta']",7
+nm0269419,Pierfrancesco Favino,3,"['en', 'fr', 'it']",7
+nm0075321,Christian Berkel,3,"['de', 'en', 'fr']",7
+nm0001428,Klaus Kinski,3,"['de', 'en', 'it']",7
+nm1367730,Pasupathy,3,"['en', 'hi', 'ta']",6
+nm0542146,Silvana Mangano,3,"['en', 'fr', 'it']",6
+nm1818216,Payman Maadi,3,"['de', 'en', 'fa']",6
+nm0000945,Jane Birkin,3,"['en', 'fr', 'it']",6
+nm0704719,Francisco Rabal,3,"['en', 'es', 'it']",6
+nm0764853,Saranya Ponvannan,3,"['en', 'ta', 'te']",6
+nm0000728,Mario Adorf,3,"['de', 'en', 'it']",6
+nm0091035,Kim Bodnia,3,"['da', 'en', 'hi']",6
+nm7021807,Mrunal Thakur,3,"['en', 'hi', 'te']",6
+nm0000971,Nicoletta Braschi,3,"['de', 'en', 'it']",6
+nm3761132,Gulshan Devaiah,3,"['de', 'hi', 'kn']",6
+nm0542498,Mahesh Manjrekar,3,"['en', 'hi', 'ta']",6
+nm0182666,Nikolaj Coster-Waldau,3,"['da', 'en', 'no']",6
+nm0885098,Alida Valli,3,"['en', 'fr', 'it']",6
+nm0040545,Féodor Atkine,3,"['en', 'es', 'fr']",6
+nm3777127,Chhaya Kadam,3,"['en', 'hi', 'mr']",6
+nm1300009,Adil Hussain,3,"['en', 'hi', 'no']",6
+nm0756533,Saikumar,3,"['en', 'ml', 'te']",6
+nm0342458,Nikolay Grinko,3,"['it', 'ru', 'uk']",6
+nm0876310,Tulasi,3,"['en', 'ta', 'te']",6
+nm0229314,Nikola Djuricko,3,"['bg', 'cs', 'sr']",6
+nm2601111,Nazriya Nazim,3,"['en', 'ml', 'ta']",6
+nm1298052,Raghu Babu,3,"['en', 'ta', 'te']",6
+nm0860947,Ulrich Thomsen,3,"['da', 'de', 'en']",6
+nm0774386,Matthias Schoenaerts,3,"['en', 'fr', 'nl']",6
+nm0219939,Danny Denzongpa,3,"['en', 'hi', 'ta']",6
+nm0438463,Anil Kapoor,3,"['de', 'en', 'hi']",6
+nm0885203,Raf Vallone,3,"['de', 'en', 'it']",6
+nm0000804,Stéphane Audran,3,"['da', 'en', 'fr']",6
+nm9016782,Nimisha Sajayan,3,"['en', 'ml', 'ta']",6
+nm0764877,R. Sarathkumar,3,"['kn', 'ta', 'te']",6
+nm1599046,Shruti Haasan,3,"['hi', 'ta', 'te']",6
+nm0897808,José Luis de Vilallonga,3,"['en', 'fr', 'it']",6
+nm1004887,Pradeep Singh Rawat,3,"['hi', 'ta', 'te']",6
+nm0073353,Aleksandar Bercek,3,"['de', 'sh', 'sr']",5
+nm0396125,Nina Hoss,3,"['de', 'en', 'ro']",5
+nm0813463,Anatoliy Solonitsyn,3,"['de', 'it', 'ru']",5
+nm6106360,Kaali Venkat,3,"['en', 'hi', 'ta']",5
+nm0865392,Bora Todorović,3,"['it', 'sh', 'sr']",5
+nm0438905,Mirjana Karanović,3,"['bs', 'sh', 'sr']",5
+nm1217394,Shidô Nakamura,3,"['de', 'en', 'ja']",5
+nm0811794,Shobana,3,"['hi', 'ml', 'ta']",5
+nm0222145,Rajan P. Dev,3,"['ml', 'ta', 'te']",5
+nm0000084,Gong Li,3,"['en', 'ja', 'zh']",5
+nm0046277,Bae Doona,3,"['en', 'ja', 'ko']",5
+nm0002000,Leslie Cheung,3,"['en', 'es', 'zh']",5
+nm1979275,Angad Bedi,3,"['en', 'hi', 'te']",5
+nm5296909,Kalaiyarasan,3,"['en', 'ml', 'ta']",5
+nm5157126,Madhusudhan Rao,3,"['en', 'kn', 'ta']",5
+nm1069826,Gautham Vasudev Menon,3,"['en', 'ml', 'ta']",5
+nm1249052,Riccardo Scamarcio,3,"['en', 'fr', 'it']",5
+nm0523597,Margarita Lozano,3,"['es', 'fr', 'it']",5
+nm4442569,Joy Badlani,3,"['hi', 'ta', 'te']",5
+nm6697575,Darshana Rajendran,3,"['en', 'ml', 'ta']",5
+nm0003508,Michel Blanc,3,"['en', 'fr', 'it']",5
+nm0482309,Lal,3,"['en', 'ml', 'ta']",5
+nm5114849,Rakul Preet Singh,3,"['hi', 'ta', 'te']",5
+nm0872729,Sergej Trifunovic,3,"['en', 'hr', 'sr']",5
+nm0904901,Kari Väänänen,3,"['en', 'fi', 'fr']",5
+nm0434263,Kishore Kadam,3,"['hi', 'mr', 'ta']",5
+nm0628806,Man-Tat Ng,3,"['en', 'es', 'fr']",5
+nm0002085,Gert Fröbe,3,"['de', 'en', 'fr']",5
+nm1076976,Ryô Kase,3,"['en', 'fr', 'ja']",5
+nm1204791,Mark Bennington,3,"['en', 'hi', 'ta']",5
+nm0882219,Urvashi,3,"['en', 'ml', 'ta']",5
+nm4572244,Abhinaya,3,"['en', 'ta', 'te']",5
+nm0275138,Andréa Ferréol,3,"['de', 'en', 'fr']",5
+nm4886752,Ajay Ghosh,3,"['en', 'ta', 'te']",5
+nm0596807,Ángela Molina,3,"['es', 'fr', 'it']",5
+nm2251846,Joanna Kulig,3,"['en', 'fr', 'pl']",5
+nm0181305,Valentina Cortese,3,"['en', 'fr', 'it']",5
+nm1413459,Siddharth,3,"['en', 'ta', 'te']",5
+nm8485910,Saurabh Sachdeva,3,"['en', 'hi', 'ml']",5
+nm0396924,Carice van Houten,3,"['de', 'en', 'nl']",5
+nm0192490,Alain Cuny,3,"['en', 'fr', 'it']",5
+nm1122924,Nadia Moidu,3,"['en', 'ml', 'te']",5
+nm1748588,Pavitra Lokesh,3,"['en', 'kn', 'te']",5
+nm10484501,Priyanka Arulmohan,3,"['en', 'ta', 'te']",4
+nm0482285,Lakshmi,3,"['hi', 'ta', 'te']",4
+nm0784025,Raima Sen,3,"['bn', 'en', 'hi']",4
+nm0482273,Predrag Lakovic,3,"['it', 'ro', 'sh']",4
+nm0503095,Evgeniy Leonov,3,"['en', 'ka', 'ru']",4
+nm1488730,Thalaivasal Vijay,3,"['en', 'ta', 'te']",4
+nm2210188,Srinivasa Reddy,3,"['en', 'ta', 'te']",4
+nm5408141,Gayathrie,3,"['en', 'ml', 'ta']",4
+nm0497642,Kang-sheng Lee,3,"['de', 'es', 'zh']",4
+nm0000733,Anouk Aimée,3,"['en', 'fr', 'it']",4
+nm4651098,Vidyut Jammwal,3,"['en', 'hi', 'ta']",4
+nm2587761,Vinay Rai,3,"['en', 'ta', 'te']",4
+nm0314358,Claudia Gerini,3,"['en', 'he', 'it']",4
+nm0671231,Matti Pellonpää,3,"['en', 'fi', 'fr']",4
+nm0938893,Anthony Wong,3,"['en', 'yue', 'zh']",4
+nm6189601,Esther Anil,3,"['ml', 'ta', 'te']",4
+nm0552483,Jean Martin,3,"['ar', 'fr', 'it']",4
+nm1913625,Parambrata Chattopadhyay,3,"['bn', 'en', 'hi']",4
+nm0191318,Dejan Cukic,3,"['da', 'de', 'sr']",4
+nm1589340,Isha Talwar,3,"['en', 'hi', 'ml']",4
+nm0071502,Heinz Bennent,3,"['de', 'en', 'fr']",4
+nm0368990,Rohini Hattangadi,3,"['en', 'hi', 'te']",4
+nm0200848,Ingeborga Dapkunaite,3,"['ce', 'en', 'fr']",4
+nm0794885,Hristo Shopov,3,"['bg', 'en', 'he']",4
+nm0536705,Ananth Mahadevan,3,"['en', 'hi', 'ta']",4
+nm0849199,Raveena Tandon,3,"['hi', 'kn', 'ta']",4
+nm7146337,Keerthy Suresh,3,"['en', 'hi', 'te']",4
+nm0421799,Julia Jentsch,3,"['cs', 'de', 'en']",4
+nm0759395,Renato Salvatori,3,"['en', 'fr', 'it']",4
+nm0880167,Nadja Uhl,3,"['de', 'en', 'nl']",4
+nm0778348,Katharina Schüttler,3,"['de', 'en', 'no']",4
+nm0596297,Karen Mok,3,"['en', 'es', 'fr']",4
+nm0150940,Chen Chao-jung,3,"['de', 'es', 'zh']",4
+nm0645402,Eiji Okada,3,"['en', 'fr', 'ja']",4
+nm0441287,Branka Katic,3,"['de', 'ro', 'sr']",4
+nm8135195,Rajisha Vijayan,3,"['en', 'ml', 'ta']",4
+nm0668640,Cezary Pazura,3,"['de', 'fr', 'pl']",4
+nm0464945,Marek Kondrat,3,"['de', 'en', 'pl']",4
+nm5194813,Naveen Chandra,3,"['en', 'ta', 'te']",4
+nm5624098,Ravi Varma,3,"['en', 'ta', 'te']",4
+nm0156484,Jacky Cheung,3,"['en', 'es', 'fr']",4
+nm0513190,Derek de Lint,3,"['de', 'en', 'nl']",4
+nm6998719,George Maryan,3,"['en', 'ml', 'ta']",4
+nm0837744,Viktor Sukhorukov,3,"['de', 'en', 'ru']",4
+nm0265761,Eduardo Fajardo,3,"['es', 'fr', 'it']",4
+nm0534866,Madhoo,3,"['hi', 'ml', 'ta']",4
+nm7473958,Nikhila Vimal,3,"['en', 'ml', 'ta']",4
+nm0344802,Dorka Gryllus,3,"['bg', 'de', 'en']",4
+nm6697626,Neeraj Madhav,3,"['en', 'hi', 'ml']",4
+nm0887769,Geert Van Rampelberg,3,"['en', 'fr', 'nl']",4
+nm0000918,Helmut Berger,3,"['en', 'fr', 'it']",4
+nm3592766,Anjali,3,"['ml', 'ta', 'te']",4
+nm0617736,Macha Méril,3,"['de', 'fr', 'it']",4
+nm0377336,Aksel Hennie,3,"['da', 'en', 'no']",4
+nm1324246,Mallika Sherawat,3,"['de', 'hi', 'ta']",3
+nm2717565,Fawad Khan,3,"['en', 'hi', 'pa']",3
+nm4945396,Harish Kalyan,3,"['en', 'ta', 'te']",3
+nm0637649,Magali Noël,3,"['en', 'fr', 'it']",3
+nm0038988,Lior Ashkenazi,3,"['ar', 'en', 'he']",3
+nm0945992,Kuei-Mei Yang,3,"['de', 'es', 'zh']",3
+nm0538710,Sergey Makovetskiy,3,"['ce', 'en', 'ru']",3
+nm0675409,Mikael Persbrandt,3,"['da', 'en', 'sv']",3
+nm0368394,O.E. Hasse,3,"['de', 'en', 'fr']",3
+nm1679372,Sudeep,3,"['hi', 'ta', 'te']",3
+nm1952830,Mamta Mohandas,3,"['ml', 'ta', 'te']",3
+nm7744845,Shraddha Srinath,3,"['en', 'ta', 'te']",3
+nm1001243,Khushbu Sundar,3,"['ml', 'ta', 'te']",3
+nm0521443,Susanne Lothar,3,"['de', 'en', 'fr']",3
+nm0586482,Nikita Mikhalkov,3,"['ce', 'fr', 'ru']",3
+nm0340926,Helmut Griem,3,"['en', 'fr', 'it']",3
+nm0044073,Lubna Azabal,3,"['ar', 'en', 'fr']",3
+nm0275213,Gabriele Ferzetti,3,"['en', 'fr', 'it']",3
+nm0407677,Nebojsa Ilic,3,"['bg', 'cs', 'es']",3
+nm0098395,Miguel Bosé,3,"['es', 'fr', 'it']",3
+nm0229301,Branko Djuric,3,"['en', 'es', 'it']",3
+nm0419685,Jaya Prada,3,"['hi', 'ta', 'te']",3
+nm1682799,Tomasz Kot,3,"['en', 'fr', 'pl']",3
+nm0007114,Sonali Bendre,3,"['hi', 'ta', 'te']",3
+nm0548686,Karl Markovics,3,"['de', 'en', 'no']",3
+nm0149146,Vojin Ćetković,3,"['bg', 'cs', 'es']",3
+nm7373703,Müfit Kayacan,3,"['el', 'fr', 'tr']",3
+nm0006807,Michèle Morgan,3,"['en', 'fr', 'it']",3
+nm0790925,Dean Shek,3,"['en', 'es', 'yue']",3
+nm3046678,Ravi Prakash,3,"['hi', 'ta', 'te']",3
+nm0422638,Wen Jiang,3,"['en', 'ja', 'zh']",3
+nm0632457,Merab Ninidze,3,"['de', 'en', 'ka']",3
+nm0943138,Wu Ma,3,"['fr', 'yue', 'zh']",3
+nm15760089,Mithun Jai Shankar,3,"['en', 'ml', 'ta']",3
+nm1289230,Riyaz Khan,3,"['hi', 'ml', 'ta']",3
+nm0167467,Aurore Clément,3,"['de', 'en', 'es']",3
+nm1018245,Mohan Kapur,3,"['en', 'hi', 'ta']",3
+nm0939153,Joey Wang,3,"['en', 'es', 'zh']",3
+nm0490500,Carina Lau,3,"['en', 'es', 'ja']",3
+nm1142921,Evgeniy Tsyganov,3,"['de', 'en', 'ru']",3
+nm2325018,Wei Tang,3,"['ca', 'en', 'ko']",3
+nm0301515,Janusz Gajos,3,"['de', 'fr', 'pl']",3
+nm0502813,Marco Leonardi,3,"['es', 'fr', 'it']",3
+nm0016646,Guido Alberti,3,"['es', 'fr', 'it']",3
+nm0082052,Jan Bijvoet,3,"['de', 'en', 'es']",3
+nm0845209,Aitana Sánchez-Gijón,3,"['en', 'es', 'it']",3
+nm14443777,Anishma Anilkumar,3,"['de', 'en', 'ta']",3
+nm0646037,Daniel Olbrychski,3,"['de', 'en', 'ru']",3
+nm0115350,Branimir Brstina,3,"['bg', 'cs', 'sr']",3
