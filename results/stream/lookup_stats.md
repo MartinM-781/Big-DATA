@@ -1,0 +1,8 @@
+**Streaming lookup table** — 4 rows (showing 4; full table: `results/stream/lookup_stats.csv`)
+
+| key_type | entity_type | keys | imdb_entities |
+| --- | --- | --- | --- |
+| base | film | 33433 | 33433 |
+| base | person | 1156503 | 1156503 |
+| base | series | 10240 | 10240 |
+| exact | film | 6368 | 6368 |

@@ -1,0 +1,5 @@
+entity_type,confidence,events,entities,bot_edits
+film,high,69,57,26
+film,medium,69,39,20
+person,medium,338,307,67
+series,medium,43,28,11
