@@ -1,0 +1,13 @@
+**Programmatic notes for unavailable information** — 9 rows (showing 9; full table: `results/enrich/missing_notes.csv`)
+
+| note | count |
+| --- | --- |
+| Not available: no Wikidata item references this IMDb id (P345) | 2481 |
+| Not available: Wikidata item has no English Wikipedia article | 1207 |
+| Not available: no Wikidata item references this IMDb id (P345) | 829 |
+| No Plot section in the Wikipedia article; lead section used | 373 |
+| Not available: Wikidata item has no English Wikipedia article | 328 |
+| Not available: empty extract (status=not_returned) | 3 |
+| Not available: empty extract (status=ok) | 1 |
+| Not available: empty extract (status=not_returned) | 1 |
+| Not available: empty extract (status=ok) | 1 |
