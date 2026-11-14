@@ -10,9 +10,8 @@ The results and the methodology write-ups are in [REPORT.md](REPORT.md).
 
 | Name | E-mail | Main areas |
 | --- | --- | --- |
-| Martin Mialaret | martin.mialaret@gmail.com | TODO |
-| TODO: teammate 2 | TODO | TODO |
-| TODO: teammate 3 (optional) | TODO | TODO |
+| Martin Mialaret | martin.mialaret@gmail.com | Environment, data preparation, exploration, enrichment, streaming, open question, documentation |
+| Victor Bougro | victor.bougro@edu.ece.fr | Code review and approval of the pull requests, merges into `main` |
 
 ## Repository layout
 
